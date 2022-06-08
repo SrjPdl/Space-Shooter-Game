@@ -1,0 +1,381 @@
+# depslib dependency file v1.0
+1558141113 source:e:\ge\gameengine\main.cpp
+	"Game.h"
+
+1558175035 e:\ge\gameengine\include\game.h
+	"Player.h"
+
+1558175186 source:e:\ge\gameengine\src\game.cpp
+	"Game.h"
+
+1558167296 e:\ge\gameengine\include\state.h
+	<vector>
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stack>
+	<map>
+	<SFML/Graphics.hpp>
+
+1558167282 source:e:\ge\gameengine\src\state.cpp
+	"State.h"
+
+1558143769 source:e:\ge\gameengine\src\gamestate.cpp
+	"Gamestate.h"
+
+1558167306 e:\ge\gameengine\include\gamestate.h
+	<State.h>
+
+1558174936 e:\ge\gameengine\include\player.h
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+
+1558174983 source:e:\ge\gameengine\src\player.cpp
+	"Player.h"
+
+1558141113 source:e:\ge\templatege\main.cpp
+	"Game.h"
+
+1558195826 e:\ge\templatege\include\game.h
+	"PL.h"
+	"EN.h"
+
+1558193695 e:\ge\templatege\include\pl.h
+	<Character.h>
+
+1558194615 e:\ge\templatege\include\character.h
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+
+1558196393 source:e:\ge\templatege\src\game.cpp
+	"Game.h"
+
+1558192630 source:e:\ge\templatege\src\character.cpp
+	"Character.h"
+
+1558193765 source:e:\ge\templatege\src\pl.cpp
+	"PL.h"
+
+1558196208 e:\ge\templatege\include\en.h
+	<Character.h>
+
+1558196480 source:e:\ge\templatege\src\en.cpp
+	"EN.h"
+
+1558141113 source:e:\ge\backup\main.cpp
+	"Game.h"
+
+1558195826 e:\ge\backup\include\game.h
+	"PL.h"
+	"EN.h"
+
+1558193695 e:\ge\backup\include\pl.h
+	<Character.h>
+
+1558194615 e:\ge\backup\include\character.h
+	<iostream>
+	<fstream>
+	<SFML/Graphics.hpp>
+
+1558196208 e:\ge\backup\include\en.h
+	<Character.h>
+
+1558192630 source:e:\ge\backup\src\character.cpp
+	"Character.h"
+
+1558196480 source:e:\ge\backup\src\en.cpp
+	"EN.h"
+
+1558196393 source:e:\ge\backup\src\game.cpp
+	"Game.h"
+
+1558193765 source:e:\ge\backup\src\pl.cpp
+	"PL.h"
+
+1564903485 source:e:\ge\shooter\main.cpp
+	"Game.h"
+
+1561900871 e:\ge\shooter\include\game.h
+	"PL.h"
+	"EN.h"
+	"Bullet.h"
+	"Background.h"
+	"Healthbar.h"
+	"Gameover.h"
+	"Mainmenu.h"
+	"Selectship.h"
+	"Pickup.h"
+
+1561891307 e:\ge\shooter\include\pl.h
+	<Character.h>
+
+1564759693 e:\ge\shooter\include\character.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1561692384 e:\ge\shooter\include\en.h
+	<Character.h>
+	<PL.h>
+
+1561345022 source:e:\ge\shooter\src\character.cpp
+	"Character.h"
+
+1564803665 source:e:\ge\shooter\src\game.cpp
+	"Game.h"
+
+1564798554 source:e:\ge\shooter\src\en.cpp
+	"EN.h"
+
+1562501900 source:e:\ge\shooter\src\pl.cpp
+	"PL.h"
+
+1561894889 source:e:\ge\shooter\src\bullet.cpp
+	"Bullet.h"
+
+1561692079 e:\ge\shooter\include\bullet.h
+	<Character.h>
+	<PL.h>
+	<EN.h>
+
+1559145746 source:e:\ge\shooter\src\collision.cpp
+	"Collision.h"
+
+1559145739 e:\ge\shooter\include\collision.h
+	<vector>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1561908323 source:e:\ge\shooter\src\background.cpp
+	"Background.h"
+
+1561908323 e:\ge\shooter\include\background.h
+	<Character.h>
+
+1561345230 e:\ge\shooter\include\healthbar.h
+	<Character.h>
+
+1563173015 source:e:\ge\shooter\src\healthbar.cpp
+	"Healthbar.h"
+
+1564798065 source:e:\ge\shooter\src\gameover.cpp
+	"Gameover.h"
+
+1564798054 e:\ge\shooter\include\gameover.h
+	"EN.h"
+	<Mainmenu.h>
+
+1564755864 e:\ge\shooter\include\mainmenu.h
+	<Character.h>
+
+1564793924 source:e:\ge\shooter\src\mainmenu.cpp
+	"Mainmenu.h"
+
+1561295554 e:\ge\shooter\include\status.h
+	<Bullet.h>
+
+1561295711 source:e:\ge\shooter\src\status.cpp
+	"Status.h"
+
+1561297342 source:e:\ge\shooter\src\bpickup.cpp
+	"Bpickup.h"
+
+1561297410 e:\ge\shooter\include\bpickup.h
+	<Character.h>
+
+1561692790 source:e:\ge\shooter\src\selectship.cpp
+	"Selectship.h"
+
+1561451373 e:\ge\shooter\include\selectship.h
+	<character.h>
+
+1563169396 source:e:\ge\shooter\src\pickup.cpp
+	"Pickup.h"
+
+1564743469 e:\ge\shooter\include\pickup.h
+	<Character.h>
+	"PL.h"
+
+1564903485 source:d:\e\study\i-ii\c++\project\shooter\main.cpp
+	"Game.h"
+
+1561900871 d:\e\study\i-ii\c++\project\shooter\include\game.h
+	"PL.h"
+	"EN.h"
+	"Bullet.h"
+	"Background.h"
+	"Healthbar.h"
+	"Gameover.h"
+	"Mainmenu.h"
+	"Selectship.h"
+	"Pickup.h"
+
+1561891307 d:\e\study\i-ii\c++\project\shooter\include\pl.h
+	<Character.h>
+
+1564759693 d:\e\study\i-ii\c++\project\shooter\include\character.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1561692384 d:\e\study\i-ii\c++\project\shooter\include\en.h
+	<Character.h>
+	<PL.h>
+
+1561692079 d:\e\study\i-ii\c++\project\shooter\include\bullet.h
+	<Character.h>
+	<PL.h>
+	<EN.h>
+
+1561908323 d:\e\study\i-ii\c++\project\shooter\include\background.h
+	<Character.h>
+
+1561345230 d:\e\study\i-ii\c++\project\shooter\include\healthbar.h
+	<Character.h>
+
+1564798054 d:\e\study\i-ii\c++\project\shooter\include\gameover.h
+	"EN.h"
+	<Mainmenu.h>
+
+1564755864 d:\e\study\i-ii\c++\project\shooter\include\mainmenu.h
+	<Character.h>
+
+1561451373 d:\e\study\i-ii\c++\project\shooter\include\selectship.h
+	<character.h>
+
+1564743469 d:\e\study\i-ii\c++\project\shooter\include\pickup.h
+	<Character.h>
+	"PL.h"
+
+1561908323 source:d:\e\study\i-ii\c++\project\shooter\src\background.cpp
+	"Background.h"
+
+1561894889 source:d:\e\study\i-ii\c++\project\shooter\src\bullet.cpp
+	"Bullet.h"
+
+1561345022 source:d:\e\study\i-ii\c++\project\shooter\src\character.cpp
+	"Character.h"
+
+1564798554 source:d:\e\study\i-ii\c++\project\shooter\src\en.cpp
+	"EN.h"
+
+1564803665 source:d:\e\study\i-ii\c++\project\shooter\src\game.cpp
+	"Game.h"
+
+1564798065 source:d:\e\study\i-ii\c++\project\shooter\src\gameover.cpp
+	"Gameover.h"
+
+1563173015 source:d:\e\study\i-ii\c++\project\shooter\src\healthbar.cpp
+	"Healthbar.h"
+
+1564793924 source:d:\e\study\i-ii\c++\project\shooter\src\mainmenu.cpp
+	"Mainmenu.h"
+
+1563169396 source:d:\e\study\i-ii\c++\project\shooter\src\pickup.cpp
+	"Pickup.h"
+
+1562501900 source:d:\e\study\i-ii\c++\project\shooter\src\pl.cpp
+	"PL.h"
+
+1561692790 source:d:\e\study\i-ii\c++\project\shooter\src\selectship.cpp
+	"Selectship.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\main.cpp
+	"Game.h"
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\game.h
+	"PL.h"
+	"EN.h"
+	"Bullet.h"
+	"Background.h"
+	"Healthbar.h"
+	"Gameover.h"
+	"Mainmenu.h"
+	"Selectship.h"
+	"Pickup.h"
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\pl.h
+	<Character.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\character.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\en.h
+	<Character.h>
+	<PL.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\bullet.h
+	<Character.h>
+	<PL.h>
+	<EN.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\background.h
+	<Character.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\healthbar.h
+	<Character.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\gameover.h
+	"EN.h"
+	<Mainmenu.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\mainmenu.h
+	<Character.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\selectship.h
+	<character.h>
+
+1654587360 c:\users\suraj\downloads\project\project\shooter\include\pickup.h
+	<Character.h>
+	"PL.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\background.cpp
+	"Background.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\bullet.cpp
+	"Bullet.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\character.cpp
+	"Character.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\en.cpp
+	"EN.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\game.cpp
+	"Game.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\gameover.cpp
+	"Gameover.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\healthbar.cpp
+	"Healthbar.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\mainmenu.cpp
+	"Mainmenu.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\pickup.cpp
+	"Pickup.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\pl.cpp
+	"PL.h"
+
+1654587360 source:c:\users\suraj\downloads\project\project\shooter\src\selectship.cpp
+	"Selectship.h"
+
